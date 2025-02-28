@@ -1,5 +1,5 @@
 {
-  "name": "javascript-obfuscator",
+  "name": "@teselagen/javascript-obfuscator",
   "version": "4.1.1",
   "description": "JavaScript obfuscator",
   "keywords": [
